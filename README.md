@@ -13,7 +13,15 @@ existe diferentes estilos de mapas:
 * light-v10
 * dark-v10
 
-## Raster tiles
+
+
+# Heatmaps
+
+como visualizar mapas de calor?
+
+https://docs.mapbox.com/mapbox-gl-js/style-spec/sources/
+
+### Raster tiles
 * info, https://docs.mapbox.com/api/maps/raster-tiles/
 * exemplos: 
    * https://docs.mapbox.com/mapbox-gl-js/example/image-on-a-map/
