@@ -10,3 +10,4 @@
 * input: conjunto de pontos georeferenciados com valores, sendo criado um heatmap entre estes através de interpolação dos valores intermedios quando se faz zoom
 * descrição do package: https://docs.mapbox.com/ios/maps/api/6.3.0/Classes/MGLHeatmapStyleLayer.html 
 * exemplo que usa pontos do heatmap guardados num [GeoJSON](https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson) https://docs.mapbox.com/mapbox-gl-js/example/heatmap-layer/
+* exemplo em lisboa: map-earthquake.html
