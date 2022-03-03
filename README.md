@@ -3,6 +3,7 @@
 * map.html: mapa MapBox com representação de pontos (marcadores). [[1]](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/)
 * map-geojson.html: mapa MapBox com pontos especificados em formato GeoJSON [[2]](https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/)
 * map-com-geometrias.html: mapa MapBox com representação de ponto e polígono [[3]](https://docs.mapbox.com/mapbox-gl-js/example/multiple-geometries/)
+* map-earthquake.html: primeira experiencia de heatmap. no entanto nao faz o que pretendo. queria que fizesse interpolação de cores intermedias, para conjunto de pontos
 
 
 **por estudar: criação de heatmaps**:
