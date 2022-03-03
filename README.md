@@ -1,5 +1,4 @@
 # mapa
 
-para visualizar pontos em mapa:
-* criar mapa:  https://docs.mapbox.com/mapbox-gl-js/example/simple-map/
-* visualizar ponto especificado em GeoJSON: https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/
+* mapa.html: mapa com representação de pontos (marcadores). [1](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/)
+* map-geojson.html: mapa com pontos especificados em formato GeoJSON [2](https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/)
