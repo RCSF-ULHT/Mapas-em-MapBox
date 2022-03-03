@@ -19,12 +19,17 @@ existe diferentes estilos de mapas:
 
 como visualizar mapas de calor?
 
-https://docs.mapbox.com/mapbox-gl-js/style-spec/sources/
+analisar:
+* https://docs.mapbox.com/mapbox-gl-js/style-spec/sources/
+* https://docs.mapbox.com/api/maps/static-tiles/
 
 ### Raster tiles
+usa api para ir buscar pontos... não claro 
+
 * info, https://docs.mapbox.com/api/maps/raster-tiles/
 * exemplos: 
    * https://docs.mapbox.com/mapbox-gl-js/example/image-on-a-map/
+   * https://www.mapbox.com/blog/better-with-weather
    * https://gis.stackexchange.com/questions/332289/mapbox-gl-js-setting-bounds-of-raster-tile-layer
    * https://blog.mapbox.com/visualizing-radar-data-with-vector-tiles-117bc5ee9a5a
    * http://bl.ocks.org/danswick/a4de5c170c04fdd38bb4
