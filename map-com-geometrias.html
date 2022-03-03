@@ -8,11 +8,6 @@
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-
         #map {
             height: 300px;
             width: 400px;
@@ -22,9 +17,12 @@
 </head>
 
 <body>
+
     <h1>Mapa</h1>
     <p>Exemplo de mapa MapBox com representação de ponto e polígono</p>
     <div id="map"></div>
+    <p>Nota: para que o mapa não ocupe a totalidade da janela, deve-se especificar o tamanho do <code>div</code> com <code>id="map"</code> em largura e altura</p>
+
     <script>
         // TO MAKE THE MAP APPEAR YOU MUST
         // ADD YOUR ACCESS TOKEN FROM
